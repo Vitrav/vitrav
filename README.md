@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💬 I'm a full-stack developer from the Netherlands. Mostly working with C#/.NET and React
+💻 Currently working at Basic Orange, as a Umbraco Back-end Developer
+
 <!--
 **Vitrav/vitrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
